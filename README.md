@@ -13,4 +13,5 @@ PC setup: AudioSend.msi
 
 Android Setup: AudioRec.apk
 
-<img width="503" alt="p1" src="https://user-images.githubusercontent.com/117324192/211950574-8faba49a-3ce0-457a-8da9-189c5b93ddbd.PNG">
+
+<img width="495" alt="p1" src="https://user-images.githubusercontent.com/117324192/211969597-740609f0-e4b6-4d72-b5eb-e93b405ff92e.PNG">
