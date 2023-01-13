@@ -12,8 +12,5 @@ AudioSend it can make
 
 <a href="https://audiosend.github.io//">audiosend.github.io</a>
 
-PC setup: AudioSend.msi
-
-Android setup: AudioRec.apk
 
 <img width="495" alt="p1" src="https://user-images.githubusercontent.com/117324192/211969597-740609f0-e4b6-4d72-b5eb-e93b405ff92e.PNG">
