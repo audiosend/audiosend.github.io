@@ -12,7 +12,7 @@ You can easily use two Android phones or Android smart speakers to form stereo s
 
 
 能将安卓音频设备(手机或智能音箱)变为电脑的无线音箱，也支持将蓝牙音频设备变为电脑多声道（4/5.1/7.1）音响的无线环绕音箱！
-你可以方便的使用两部安卓手机或安卓智能音箱来组成立体声！
+你可以很方便的使用两部安卓手机或安卓智能音箱来组成立体声！
 
 
 <a href="https://audiosend.github.io//">audiosend.github.io</a>
