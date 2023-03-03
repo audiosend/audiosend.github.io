@@ -18,5 +18,5 @@ You can easily use two Android phones or Android smart speakers to form stereo s
 
 <a href="https://audiosend.github.io//">audiosend.github.io</a>
 
+<img width="725" alt="a3-en" src="https://user-images.githubusercontent.com/117324192/222625974-cbd451a8-943c-4dbf-a27c-c31f542f32e5.png">
 
-<img width="495" alt="p1" src="https://user-images.githubusercontent.com/117324192/211969597-740609f0-e4b6-4d72-b5eb-e93b405ff92e.PNG">
